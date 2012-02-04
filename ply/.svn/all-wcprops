@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/py-sharp/!svn/ver/34/Py%23/src/ply
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/py-sharp/!svn/ver/34/Py%23/src/ply/__init__.py
+END
+lex.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/py-sharp/!svn/ver/34/Py%23/src/ply/lex.py
+END
+yacc.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/py-sharp/!svn/ver/3/Py%23/src/ply/yacc.py
+END
